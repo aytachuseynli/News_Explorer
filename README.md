@@ -30,7 +30,4 @@ Welcome to the News App! This application provides a seamless experience for sta
 - Click on "Read More" to open the news article in a web browser for further reading.
 
 
-![detailscreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/7ce59f27-81b6-4fbd-886a-6bb1fb20c9b1)
-![savedscreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/9607e485-a35e-4d1c-a531-9a33b553c269)
-![languagescreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/7661984e-7735-4f62-92cb-162294f45506)
-![homescreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/d0b0fc31-dbef-46bd-ae6a-7b1f77876af2)
+![detailscreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/7ce59f27-81b6-4fbd-886a-6bb1fb20c9b1) | ![savedscreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/9607e485-a35e-4d1c-a531-9a33b553c269) | ![languagescreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/7661984e-7735-4f62-92cb-162294f45506) |![homescreen](https://github.com/aytachuseynli/News_Explorer/assets/64212177/d0b0fc31-dbef-46bd-ae6a-7b1f77876af2)
